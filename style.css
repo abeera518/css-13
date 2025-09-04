@@ -1,0 +1,15 @@
+.col{background-color: brown;
+color: white;
+border: 5px solid black;}
+.col-4{background-color: blue;
+color: rgb(28, 2, 43);
+border: 5px solid rgb(96, 194, 39);}
+.col-8{background-color: green;
+color: rgb(145, 101, 101);
+border: 5px solid rgb(39, 11, 104);}
+.col-md-4{background-color: purple;
+color: rgb(190, 18, 113);
+border: 5px solid rgb(255, 0, 0);}
+ .col-lg-8{background-color: orange;
+color: rgb(119, 12, 12);
+border: 5px solid rgb(0, 255, 0);}
